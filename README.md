@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im Calvin! I am aspiring Data Scientist , former molecular biologist researcher looking for opportunities across all fields. 
+I'm Calvin! an aspiring Data Scientist , former molecular biologist researcher looking for opportunities across all fields. 
 
 If you want to reach me please get in contact on my LinkedIn! 
 
