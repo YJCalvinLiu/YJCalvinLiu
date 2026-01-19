@@ -4,7 +4,6 @@ I'm Calvin! a Data Scientist and former molecular biologist researcher looking f
 
 If you want to reach me please get in contact on my LinkedIn! 
 
-If you wanna check out my creative outlet check out my Instagram!
 
 ## Connect with me
 
