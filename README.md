@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Calvin! a Data Scientist and former molecular biologist researcher looking for data science and data analytics opportunities across all fields. 
+I'm Calvin! a Data Scientist and former molecular biologist researcher looking for data science and data analyst opportunities across all fields. 
 
 If you want to reach me please get in contact on my LinkedIn! 
 
