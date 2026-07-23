@@ -1,9 +1,11 @@
 ## Hi there 👋
 
-I'm Calvin! a Data Scientist and former molecular biologist researcher looking for data science and data analyst opportunities across all fields. 
+I'm Calvin! Trained molecular biologist turned data scientistlooking for Machine Learning, Data scientist, Data Analyst opportunities across all fields.
+
+MS Data Science, Johns Hopkins University
+BS Biomolecular Science, NYU
 
 If you want to reach me please get in contact on my LinkedIn! 
-
 
 ## Connect with me
 
