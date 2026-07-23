@@ -2,8 +2,8 @@
 
 I'm Calvin! Trained molecular biologist turned data scientistlooking for Machine Learning, Data scientist, Data Analyst opportunities across all fields.
 
-MS Data Science, Johns Hopkins University
-BS Biomolecular Science, NYU
+MS Data Science, Johns Hopkins University  
+BS Biomolecular Science, NYU Tandon School of Engineering  
 
 If you want to reach me please get in contact on my LinkedIn! 
 
