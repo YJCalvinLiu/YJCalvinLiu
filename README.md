@@ -1,4 +1,4 @@
-## Hi there 👋
+# Calvin (Yi Jing) Liu
 
 I'm Calvin! Trained molecular biologist turned data scientistlooking for Machine Learning, Data scientist, Data Analyst opportunities across all fields.
 
