@@ -3,7 +3,7 @@
 
 I'm Calvin! Trained molecular biologist turned data scientist looking for Machine Learning, Data scientist, Data Analyst opportunities across all fields.
 
-
+## Education 
 > MS Data Science, Johns Hopkins University
 
 
