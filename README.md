@@ -1,12 +1,13 @@
 # Calvin (Yi Jing) Liu
 # 👋 Hello!
 
-I'm Calvin! Trained molecular biologist turned data scientistlooking for Machine Learning, Data scientist, Data Analyst opportunities across all fields.
-
-<small> MS Data Science, Johns Hopkins University <small>   
+I'm Calvin! Trained molecular biologist turned data scientist looking for Machine Learning, Data scientist, Data Analyst opportunities across all fields.
 
 
-<small> BS Biomolecular Science, NYU Tandon School of Engineering <small> 
+> MS Data Science, Johns Hopkins University
+
+
+> BS Biomolecular Science, NYU Tandon School of Engineering
 
 If you want to reach me please get in contact on my LinkedIn! 
 
